@@ -1,2 +1,2 @@
 # helvetica-neue
-Reworked version of the Helvetica font. Used by — but not necessarily created by — Apple.
+A reworked version of the Helvetica font. Used—but not necessarily created—by Apple.
